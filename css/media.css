@@ -1,0 +1,162 @@
+
+@media only screen and (max-width : 768px) {
+	
+	nav{
+		height: 60px;
+		line-height: 60px;
+		background-color: #2a2e48;
+		position: fixed;
+	}
+	.top_line{
+		display: none;
+	}
+	.logo{
+		padding-top: 15px;
+	}
+	.menu_btn{
+		height: 40px;
+		width: 40px;
+		background-color: #e84545;
+	}
+	.menu_btn span{
+		top:-17px;
+		color:white;
+	}
+	#top_menu{
+		background-color: #2a2e48;
+		padding: 20px 0;
+	}
+	.menu li{
+		display: block;
+		text-align: center;
+	}
+	.menu li a{
+		display: block;
+	}
+	.menu li a:hover{
+		background-color: #fff;
+		color: #000;
+	}
+.features_block{
+	width:436px;
+}
+	.title_block{
+		margin-top: 130px;
+	}
+
+	.copytext{
+		margin-left:70px;
+
+}
+	
+
+}
+
+@media only screen and (max-width : 480px) {
+
+	nav{
+		height: 60px;
+		line-height: 60px;
+		background-color: #2a2e48;
+		position: fixed;
+	}
+	.top_line{
+		display: none;
+	}
+	.logo{
+		padding-top: 15px;
+	}
+	.menu_btn{
+		height: 40px;
+		width: 40px;
+		background-color: #e84545;
+	}
+	#top_menu{
+		background-color: #2a2e48;
+		padding: 20px 0;
+	}
+	.menu li{
+		display: block;
+		text-align: center;
+	}
+	.menu li a{
+		display: block;
+	}
+	.menu li a:hover{
+		background-color: #fff;
+		color: #000;
+	}
+
+	.title_block{
+		margin-top: 130px;
+	}
+
+	.features_block{
+	width:435px;
+}
+
+	.footer_item{
+		width: 0;
+	}
+	.copytext{
+		margin-left:15px;
+	width:250px;
+}
+
+}
+
+
+@media only screen and (max-width : 320px) {
+
+	nav{
+		height: 60px;
+		line-height: 60px;
+		background-color: #2a2e48;
+		position: fixed;
+	}
+	.top_line{
+		display: none;
+	}
+	.logo{
+		padding-top: 15px;
+	}
+	.menu_btn{
+		height: 40px;
+		width: 40px;
+		border-radius: 50%;
+		background-color: #e84545;
+	}
+	#top_menu{
+		background-color: #2a2e48;
+		padding: 20px 0;
+	}
+	.menu li{
+		display: block;
+		text-align: center;
+	}
+	.menu li a{
+		display: block;
+	}
+	.menu li a:hover{
+		background-color: #fff;
+		color: #000;
+	}
+
+	.title_block{
+		margin-top: 130px;
+	}
+	.features_block{
+	width:230px;
+}
+
+.footer_item{
+		width: 285px;
+		padding: 10px 0;
+	}
+
+.copytext {
+	width:250px;
+}
+
+
+}
